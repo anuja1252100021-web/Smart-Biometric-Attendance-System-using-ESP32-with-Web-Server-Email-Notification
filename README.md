@@ -1,0 +1,2 @@
+# Smart-Biometric-Attendance-System-using-ESP32-with-Web-Server-Email-Notification
+A Smart Biometric Attendance System built using ESP32 and an optical fingerprint sensor. The system authenticates users through fingerprint recognition, records attendance with date and time, hosts a real-time web server dashboard for attendance monitoring, and automatically sends attendance notifications via email. Designed as a secure.
